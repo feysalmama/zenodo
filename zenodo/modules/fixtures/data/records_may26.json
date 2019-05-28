@@ -1,0 +1,96 @@
+[
+  {
+    "files": [
+      {
+        "comment": null, 
+        "encoding": null, 
+        "creation_date": "2018-10-16T11:51:39.675148+00:00", 
+        "etag": "\"239.pdf1\"", 
+        "full_name": "PUBLICATIONSETHERNET-2018-010.pdf", 
+        "superformat": ".pdf", 
+        "recids_doctype": [
+          [
+            548, 
+            "Main", 
+            "PUBLICATIONSETHERNET-2018-010.pdf"
+          ]
+        ], 
+        "size": 1468980, 
+        "modification_date": "2018-10-16T11:51:39.675148+00:00", 
+        "subformat": "", 
+        "version": 1, 
+        "flags": [], 
+        "hidden": false, 
+        "type": "Main", 
+        "status": "", 
+        "description": null, 
+        "format": ".pdf", 
+        "bibdocid": 239, 
+        "mime": "application/pdf", 
+        "path": "/opt/invenio/var/data/files/g0/237/content.pdf;1", 
+        "name": "PUBLICATIONSETHERNET-2018-010", 
+        "copyright": null, 
+        "license": null, 
+        "url": "http://nadre.ethernet.edu.et/record/548/files/PUBLICATIONSETHERNET-2018-010.pdf", 
+        "checksum": "e913aeca1b8bb732345991be02b490ce", 
+        "recid": 548, 
+        "full_path": "/opt/invenio/var/data/files/g0/237/content.pdf;1"
+      }
+    ], 
+    "recid": 548, 
+    "record": [
+      {
+          "marcxml": "<record>\n  <controlfield tag=\"001\">548</controlfield>\n  <controlfield tag=\"005\">20181126173745.0</controlfield>\n  <datafield tag=\"024\" ind1=\"7\" ind2=\" \">\n    <subfield code=\"2\">DOI</subfield>\n    <subfield code=\"a\">10.20372/nadre:1539690050.9</subfield>\n  </datafield>\n  <datafield tag=\"037\" ind1=\" \" ind2=\" \">\n    <subfield code=\"a\">PUBLICATIONSETHERNET-2018-010</subfield>\n  </datafield>\n  <datafield tag=\"041\" ind1=\" \" ind2=\" \">\n    <subfield code=\"a\">eng</subfield>\n  </datafield>\n  <datafield tag=\"043\" ind1=\" \" ind2=\" \">\n    <subfield code=\"a\">article</subfield>\n  </datafield>\n  <datafield tag=\"100\" ind1=\" \" ind2=\" \">\n    <subfield code=\"a\">Behailu Korma et al.</subfield>\n  </datafield>\n  <datafield tag=\"245\" ind1=\" \" ind2=\" \">\n    <subfield code=\"a\">HARMONIZED MODULAR CURRICULUM   PROGRAM: EARLY CHILDHOOD CARE AND EDUCATION</subfield>\n  </datafield>\n  <datafield tag=\"260\" ind1=\" \" ind2=\" \">\n    <subfield code=\"c\">2017-02-10</subfield>\n  </datafield>\n  <datafield tag=\"300\" ind1=\" \" ind2=\" \">\n    <subfield code=\"a\">176</subfield>\n  </datafield>\n  <datafield tag=\"500\" ind1=\" \" ind2=\" \">\n    <subfield code=\"b\">cc-by</subfield>\n  </datafield>\n  <datafield tag=\"520\" ind1=\" \" ind2=\" \">\n    <subfield code=\"a\">This draft nationally harmonized curriculum of the Early Childhood Care and Education program is almost a finalized version with minor revisionary works expected in the future of course. It serves as an official working document as of the year 2009 E.C. And this case has been agreed by all the participant representatives working to this end.</subfield>\n  </datafield>\n  <datafield tag=\"653\" ind1=\"1\" ind2=\" \">\n    <subfield code=\"a\">HARMONIZED MODULAR CURRICULUM</subfield>\n  </datafield>\n  <datafield tag=\"653\" ind1=\"1\" ind2=\" \">\n    <subfield code=\"a\">PROGRAM: EARLY CHILDHOOD CARE AND EDUCATION</subfield>\n  </datafield>\n  <datafield tag=\"856\" ind1=\"0\" ind2=\" \">\n    <subfield code=\"f\">behailu.korma@yahoo.com;habtamudaniel1997@gmail.com</subfield>\n  </datafield>\n  <datafield tag=\"856\" ind1=\"4\" ind2=\" \">\n    <subfield code=\"s\">1468980</subfield>\n    <subfield code=\"u\">http://nadre.ethernet.edu.et/record/548/files/PUBLICATIONSETHERNET-2018-010.pdf</subfield>\n  </datafield>\n  <datafield tag=\"909\" ind1=\"C\" ind2=\"O\">\n    <subfield code=\"o\">oai:nadre.ethernet.edu.et:548</subfield>\n    <subfield code=\"p\">openaire</subfield>\n    <subfield code=\"p\">GLOBAL_SET</subfield>\n    <subfield code=\"p\">openaire_data</subfield>\n  </datafield>\n  <datafield tag=\"980\" ind1=\" \" ind2=\" \">\n    <subfield code=\"a\">PUBLICATIONSETHERNET</subfield>\n  </datafield>\n</record>"          
+      ,
+        "json": {
+
+          "creation_date": "2018-10-16T14:51:35", 
+          "oai": {
+            "indicator": [
+              "openaire", 
+              "GLOBAL_SET", 
+              "openaire_data"
+            ], 
+            "oai": "oai:nadre.ethernet.edu.et:548"
+          }, 
+          "keywords": [
+            "HARMONIZED MODULAR CURRICULUM", 
+            "PROGRAM: EARLY CHILDHOOD CARE AND EDUCATION"
+          ], 
+          "license": {
+            "url": "http://www.opendefinition.org/licenses/cc-by", 
+            "identifier": "cc-by", 
+            "license": "Creative Commons Attribution"
+          }, 
+          "title": "HARMONIZED MODULAR CURRICULUM   PROGRAM: EARLY CHILDHOOD CARE AND EDUCATION", 
+          "description": "This draft nationally harmonized curriculum of the Early Childhood Care and Education program is almost a finalized version with minor revisionary works expected in the future of course. It serves as an official working document as of the year 2009 E.C. And this case has been agreed by all the participant representatives working to this end.", 
+          "authors": [
+            {
+              "familyname": "Behailu Korma et al.", 
+              "givennames": "", 
+              "name": "Behailu Korma et al."
+            }
+          ], 
+          "communities": [
+            "nadre"
+          ], 
+          "publication_date": "2017-02-10", 
+          "doi": "10.20372/nadre:1539690051.9", 
+          "language": "eng", 
+          "access_right": "open", 
+          "url": {
+            "size": "1468980", 
+            "url": "http://nadre.ethernet.edu.et/record/548/files/PUBLICATIONSETHERNET-2018-010.pdf"
+          }, 
+          "recid": 548, 
+          "upload_type": {
+            "subtype": "section", 
+            "type": "publication"
+          }
+        }, 
+        "modification_datetime": "2018-11-26T14:37:45+00:00"
+      }
+    ]
+  }
+]
+

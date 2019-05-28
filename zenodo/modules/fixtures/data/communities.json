@@ -1,17 +1,272 @@
 [
   {
       "ranking": 10000,
-      "curation_policy": "See https://zenodo.org/policies",
-      "id": "zenodo",
-      "title": "Zenodo",
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "nadre",
+      "title": "national academic digital repository of ethiopia",
       "owner_email": "info@zenodo.org"
+   
+  },
+{
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "nadreproject",
+      "title": "NADRE Project",
+      "owner_email": "info@zenodo.org"
+   
   },
   {
-      "ranking": 20000,
+      "ranking": 0,
       "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
-      "id": "ecfunded",
-      "title": "European Commission Funded Research (OpenAIRE)",
-      "owner_email": "info@zenodo.org",
-      "logo": "data/community-logos/ecfunded.jpg"
+      "id": "hesc",
+      "title": "Higher Education Strategy Center",
+      "owner_email": "info@zenodo.org"
+   
+  },
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "ethernet",
+      "title": "Ethiopian Research and Education Network",
+      "owner_email": "info@zenodo.org"
+   
+  },
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "etcarpentries",
+      "title": "ET Carpentries",
+      "owner_email": "info@zenodo.org"
+   
+  },
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "uog",
+      "title": "University of Gondar",
+      "owner_email": "info@zenodo.org"
+   
+  },
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "uoget",
+      "title": "University of Gondar - Engineering and Technology",
+      "owner_email": "info@zenodo.org"
+   
+  },
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "uognecs",
+      "title": "University of Gondar - Natural and Computational Sciences",
+      "owner_email": "info@zenodo.org"
+   
+  },
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "uogmhs",
+      "title": "University of Gondar - Medicine and Health Sciences",
+      "owner_email": "info@zenodo.org"
+   
+  },
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "uogavs",
+      "title": "University of Gondar - Agriculture and Veterinary Sciences",
+      "owner_email": "info@zenodo.org"
+   
+  },
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "uogbe",
+      "title": "University of Gondar - Business and Economics",
+      "owner_email": "info@zenodo.org"
+   
+  },
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "uogssh",
+      "title": "University of Gondar - Social Sciences and Humanities",
+      "owner_email": "info@zenodo.org"
+   
+  },
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "aastu",
+      "title": "Addis Ababa Science and Technology University",
+      "owner_email": "info@zenodo.org"
+   
+  },
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "aastuet",
+      "title": "Addis Ababa Science and Technology University - Engineering and Technology",
+      "owner_email": "info@zenodo.org"
+   
+  },
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "aastuncs",
+      "title": "Addis Ababa Science and Technology University - Natural and Computational Sciences",
+      "owner_email": "info@zenodo.org"
+   
+  },
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "aastumhs",
+      "title": "Addis Ababa Science and Technology University - Medicine and Health Sciences",
+      "owner_email": "info@zenodo.org"
+   
+  },
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "aastuavs",
+      "title": "Addis Ababa Science and Technology University - Agriculture and Veterinary Sciences",
+      "owner_email": "info@zenodo.org"
+   
+  },
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "aastube",
+      "title": "Addis Ababa Science and Technology University - Business and Economics",
+      "owner_email": "info@zenodo.org"
+   
+  },
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "aastussh",
+      "title": "Addis Ababa Science and Technology University - Social Sciences and Humanities",
+      "owner_email": "info@zenodo.org"
+   
+  },
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "amu",
+      "title": "Arba Minch University ",
+      "owner_email": "info@zenodo.org"
+   
+  },
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "amuet",
+      "title": "Arba Minch University - Engineering and Technology",
+      "owner_email": "info@zenodo.org"
+   
+  },{
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "amuncs",
+      "title": "Arba Minch University - Natural and Computational Sciences",
+      "owner_email": "info@zenodo.org"
+   
+  },{
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "amumhs",
+      "title": "Arba Minch University - Medicine and Health Sciences",
+      "owner_email": "info@zenodo.org"
+   
+  },{
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "amuavs",
+      "title": "Arba Minch University - Agriculture and Veterinary Sciences",
+      "owner_email": "info@zenodo.org"
+   
+  },{
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "amube",
+      "title": "Arba Minch University - Business and Economics",
+      "owner_email": "info@zenodo.org"
+   
+  },{
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "amussh",
+      "title": "Arba Minch University - Social Sciences and Humanities",
+      "owner_email": "info@zenodo.org"
+   
+  },
+
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "aau",
+      "title": "Addis Ababa University",
+      "owner_email": "info@zenodo.org"
+   
+  },
+
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "aauet",
+      "title": "Addis Ababa University - Engineering and Technology",
+      "owner_email": "info@zenodo.org"
+   
+  },
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "aauncs",
+      "title": "Addis Ababa University - Natural and Computational Sciences ",
+      "owner_email": "info@zenodo.org"
+   
+  },{
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "aaumhs",
+      "title": "Addis Ababa University - Medicine and Health Sciences",
+      "owner_email": "info@zenodo.org"
+   
+  },{
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "aauavs",
+      "title": "Addis Ababa University - Agriculture and Veterinary Sciences",
+      "owner_email": "info@zenodo.org"
+   
+  },{
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "aaube",
+      "title": "Addis Ababa University - Business and Economics",
+      "owner_email": "info@zenodo.org"
+   
+  },
+
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "aaussh",
+      "title": "Addis Ababa University - Social Sciences and Humanities",
+      "owner_email": "info@zenodo.org"
+   
+  },
+
+  {
+      "ranking": 0,
+      "curation_policy": "Uploads must have been fully or partially funded by the European Commission.",
+      "id": "du",
+      "title": "Dilla University",
+      "owner_email": "info@zenodo.org"
+   
   }
+
+
 ]

@@ -1,0 +1,978 @@
+    1  ping google.com
+    2  git
+    3  ping google.com
+    4  docker run hello-world
+    5  sudo docker run hello-world
+    6  docker image ls
+    7  sudp docker image ls
+    8  sudo docker image ls
+    9  docker conainer ls --a;;
+   10  docker conainer ls --all
+   11  sudo docker container ls --all
+   12  docker --version 
+   13  docker info
+   14  sudo docker info
+   15  docker ps
+   16  sudo docker ps
+   17  cd Desktop/
+   18  git clone https://github.com/osct/zenodo-kubernetes
+   19  git clone https://github.com/osct/zenodo-apache-shibboleth-container
+   20  git clone https://github.com/osct/zenodo
+   21  sudo add-apt-repository ppa:webupd8team/atom
+   22  sudo apt update; sudo apt install atom
+   23  clear
+   24  docker run hello-world
+   25  sudo docker run hello-world
+   26  sudo docker ps -a
+   27  sudo docker run -it ubuntu bash
+   28  sudo docker ps -a
+   29  sudo docker images
+   30  ssh root@196.189.45.71
+   31  docker
+   32  clear 
+   33  docker info 
+   34  sudo docker info 
+   35  docker images
+   36  sudo docker images
+   37  clear
+   38  wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+   39  sudo apt-get install apt-transport-https
+   40  echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+   41  sudo apt-get update
+   42  sudo apt-get install sublime-text
+   43  clear
+   44  docure --version 
+   45  cd ~/src/
+   46  pwd
+   47  clear
+   48  cd Documents/
+   49  git clone https://github.com/zenodo/zenodo.git
+   50  cd zenodo/
+   51  git checkout master
+   52  docker-compose build
+   53  cd ..
+   54  rm zenodo/
+   55  rm -f zenodo/
+   56  rm -fr zenodo/
+   57  ls
+   58  clear
+   59  mkdir src
+   60  cd src/
+   61  git clone https://github.com/zenodo/zenodo.git
+   62  cd zenodo/
+   63  docker --version 
+   64  sudo curl -L "https://github.com/docker/compose/releases/download/1.24.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+   65  sudo chmod +x /usr/local/bin/docker-compose
+   66  docker-compose --version
+   67  clear
+   68  docker-compose --version
+   69  git checkout master
+   70  docker-compose build
+   71  docker-compose up
+   72  pip install virtualenvwrapper
+   73  mkvirtualenv zenodo
+   74  sudo apt-get install pip 
+   75  sudo apt update
+   76  sudo apt install python3-pip
+   77  pip
+   78  pip3 --v
+   79  pip3 --version
+   80  clera
+   81  clear
+   82  pip install virtualenvwrapper
+   83  pip3 install virtualenvwrapper
+   84  clear
+   85  mkvirtualenv zenodo
+   86  export WORKON_HOME=~/Envs
+   87  mkdir -p $WORKON_HOME
+   88  source /usr/local/bin/virtualenvwrapper.sh
+   89  mkvirtualenv env1
+   90  pip3 install virtualenvwrapper
+   91  pip install --upgrade pip
+   92  pip3 install --upgrade pip
+   93  clear
+   94  pip
+   95  pip --version
+   96  clear
+   97  mkvirtualenv zenodo
+   98  source "/usr/bin/virtualenvwrapper.sh"
+   99  source `which virtualenvwrapper.sh`
+  100  sudo pip install virtualenv
+  101  sudo pip3 install virtualenv
+  102  source /usr/local/bin/virtualenvwrapper.sh -p $WORKON_HOM
+  103  mkdir .virtualenvs
+  104  clear
+  105  pip install virtualenv
+  106  which virtualenv
+  107  pip install virtualenvwrapper
+  108  vim .bash_profile
+  109  mkvirtualenv zenodo
+  110  ~/.bash_profile
+  111  export WORKON_HOME=~/Envs
+  112  mkdir -p $WORKON_HOME
+  113  cd /usr/bin/
+  114  ls
+  115  clear
+  116  cd ..
+  117  mkvirtualenv zenodo
+  118  cd Documents/
+  119  cd src/
+  120  ls
+  121  clear
+  122  cd zenodo/
+  123  ls
+  124  clar
+  125  clear
+  126  mkvirtualenv zenodo
+  127  export WORKON_HOME=$HOME/.virtualenvs
+  128  export VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python
+  129  mkvirtualenv zenodo
+  130  export VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python
+  131  export VIRTUALENVWRAPPER_VIRTUALENV=/usr/local/bin/virtualenv
+  132  export VIRTUALENVWRAPPER_VIRTUALENV_ARGS='--no-site-packages'
+  133  source /usr/local/bin/virtualenvwrapper.sh
+  134  clear
+  135  which virtualenvwrapper.sh
+  136  mkdir -p $WORKON_HOME
+  137  $ source /usr/local/bin/virtualenvwrapper.sh
+  138  source /usr/local/bin/virtualenvwrapper.sh
+  139  source /local/bin/virtualenvwrapper.sh
+  140  source local/bin/virtualenvwrapper.sh
+  141  source ~/local/bin/virtualenvwrapper.sh
+  142  source ~/usr/local/bin/virtualenvwrapper.sh
+  143  source /usr/local/bin/virtualenvwrapper.sh
+  144  mkdir -p $WORKON_HOME
+  145  mkvirtualenv -p /usr/bin/python3.4 env1
+  146  mkvirtualenv zenodo
+  147  clear
+  148  pip install virtualenvwrapper
+  149  source /.local/bin/virtualenvwrapper.sh
+  150  source ~/.local/bin/virtualenvwrapper.sh
+  151  VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python
+  152  mkvirtualenv zenodo
+  153  sudo apt install virtualenv
+  154  $ mkvirtualenv zenodo
+  155  mkvirtualenv zenodo
+  156  sudo apt install virtualenv
+  157  sudo apt install --reinstall virtualenv
+  158  mkvirtualenv zenodo
+  159  sudo find / -name "virtualenv"
+  160  export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+  161  export WORKON_HOME=$HOME/.virtualenvs
+  162  export VIRTUALENVWRAPPER_VIRTUALENV=/home/YOUR_USERNAME/.local/bin/virtualenv
+  163  source /home/feysal/.local/bin/virtualenvwrapper.sh
+  164  mkvirtualenv zenodo
+  165  ource ~/.bashrc
+  166  source ~/.bashrc
+  167  lsvirtualenv
+  168  mkvirtualenv test
+  169  PATH=$PATH:home/feysal/.local/bin/virtualen
+  170  PATH=$PATH:~/.local/bin
+  171  mkvirtualenv test
+  172  vim ~/.bashrc
+  173  sudo apt-get install vim
+  174  clear
+  175  vim ~/.bashrc
+  176  clear
+  177  vim ~/.bashrc
+  178  mkvirtualenv zenodo
+  179  pip install --user virtualenvwrapper
+  180  pip show virtualenvwrapper
+  181  export WORKON_HOME=$HOME/.virtenvs
+  182  export PROJECT_HOME=$HOME/Projects-Active
+  183  source $HOME/.local/bin/virtualenvwrapper.sh
+  184  $ source ~/.bashrc
+  185  source ~/.bashrc
+  186  vim ~/.bashrc
+  187  source ~/.bashrc
+  188  mkvirtualenv zenodo
+  189  source $HOME/.local/bin/virtualenvwrapper.sh
+  190  source $HOME/local/bin/virtualenvwrapper.sh
+  191  source $HOME/.local/bin/virtualenvwrapper.sh
+  192  PATH=$PATH:~/.local/bin
+  193  export WORKON_HOME=$HOME/.virtualenvs 
+  194  export PROJECT_HOME=$HOME/.local/bin/virtualen
+  195  source /.local/bin/virtualenvwrapper.sh 
+  196  source ~/.local/bin/virtualenvwrapper.sh 
+  197  mkvirtualenv test
+  198  export PROJECT_HOME=$HOME/feysal/.local/bin/virtualen
+  199  source ~/feysal/.local/bin/virtualenvwrapper.sh 
+  200  mkvirtualenv test
+  201  nano ~/.bashrc
+  202  docker --verstion
+  203  docker verstion
+  204  docker version
+  205  docker-compose  version
+  206  clear
+  207  git
+  208  git config --global user.name "feysal mama"
+  209  git config --global user.email "fesemum@gmail.com"
+  210  cd Do
+  211  cd Documents/
+  212  ls
+  213  clear
+  214  rm -fr src/
+  215  clear
+  216  ls
+  217  clkear
+  218  clear
+  219  git clone https://gitlab.com/feysalmam/zenodo.git
+  220  cd zenodo/
+  221  pip install -r requirements.txt --src ~/src/ --pre --upgrade
+  222  clear
+  223  python
+  224  python3
+  225  clear
+  226  alias python=python3
+  227  python
+  228  pip install -r requirements.txt --src ~/src/ --pre --upgrade
+  229  sudo apt-cache search cairo
+  230  sudo apt-get install libcairo2 libcairo2-dev
+  231  clear
+  232  pip install -r requirements.txt --src ~/src/ --pre --upgrade
+  233  clear
+  234  sudo apt-cache search libfft
+  235  sudo apt-cache search fft
+  236  pip install -r requirements.txt --src ~/src/ --pre --upgrade
+  237  sudo apt-cache search libffi
+  238  sudo apt-get install libffi-dev
+  239  pip install -r requirements.txt --src ~/src/ --pre --upgrade
+  240  python
+  241  nano ~/.bash_aliases
+  242  ~/.bash
+  243  nano ~/.bash_aliases
+  244  python
+  245  pip install virtualenvwrapper
+  246  cd Doc
+  247  cd Documents/
+  248  ls
+  249  mkvirtualenv zenodo
+  250  python
+  251  nano ~/.bashrc
+  252  source ~/.bashrc
+  253  python
+  254  cd Documents/
+  255  cd zenodo/
+  256  pip install -r requirements.txt --src ~/src/ --pre --upgrade
+  257  pip install -U setuptools
+  258  sudo pip install -U setuptools
+  259  sudo pip3 install -U setuptools
+  260  sudo pip install -U setuptools
+  261  sudo pip install -U setuptools --usr
+  262  sudo pip install -U setuptools --user
+  263  nano ~/.bashrc
+  264  sudo /home/feysal/.local/bin/pip
+  265  sudo /home/feysal/.local/bin/pip install -U setuptools
+  266  sudo /home/feysal/.local/bin/pip install -H setuptools
+  267  su -c
+  268  su -u
+  269  su 
+  270  sudo -c /home/feysal/.local/bin/pip install -H setuptools
+  271  clear
+  272  sudo -H pip install -U setuptools
+  273  clear
+  274  pip install -r requirements.txt --src ~/src/ --pre --upgrade
+  275  nano .bashrc
+  276  sudo apt-get install python-setuptools
+  277  clear
+  278  mkvirtualenv zenodo
+  279  pip install virtualenvwrapper
+  280  export WORKON_HOME=~/Envs
+  281  mkdir -p $WORKON_HOME
+  282  source /usr/local/bin/virtualenvwrapper.sh
+  283  source /usr/.local/bin/virtualenvwrapper.sh
+  284  source ~/.local/bin/virtualenvwrapper.sh
+  285  source /home/feysal/.local/bin/virtualenvwrapper.sh
+  286  mkvirtualenv zenodo
+  287  pip install virtualenvwrapper
+  288  source /usr/local/bin/virtualenvwrapper.sh
+  289  clear
+  290  pip install virtualenvwrapper
+  291  . virtualenvwrapper.sh 
+  292  sudo pip install virtualenvwrapper
+  293  apt-cache search virtualenvwrapper
+  294  pip remove virtualenvwrapper
+  295  pip rm virtualenvwrapper
+  296  pip delete virtualenvwrapper
+  297  pip
+  298  pip uninstall virtualenvwrapper
+  299  sudo apt-get install virtualenvwrapper
+  300  . virtualenvwrapper.sh 
+  301  virtualenvwrapper.sh
+  302  python
+  303  mkvirtualenv zenodo
+  304  git clone https://gitlab.com/feysalmam/zenodo.git
+  305  pip install -r requirements.txt --src ~/src/ --pre --upgrade
+  306  ls
+  307  cd zenodo/
+  308  pip install -r requirements.txt --src ~/src/ --pre --upgrade
+  309  pip install -e .[all,postgresql,elasticsearch2]
+  310  sudo apt-cache search nodejs
+  311  sudo apt-cache show nodejs
+  312  wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+  313  nvm use 7.4
+  314  nano .bashrc
+  315  cd 
+  316  cd .virtualenvs/zenodo/lib/python3.5/site-packages/
+  317  ls
+  318  exit
+  319  workon zenodo
+  320  cd 
+  321  cd .virtualenvs/zenodo/
+  322  ls
+  323  cd lib/
+  324  ls
+  325  cd python3.5/site-packages/
+  326  ls
+  327  cd
+  328  cd .virtualenvs/
+  329  ls
+  330  cd zenodo/
+  331  ls
+  332  ls include/
+  333  ls
+  334  cd lib/
+  335  ks
+  336  ls
+  337  cd python3.5/
+  338  ls
+  339  cd site-packages/
+  340  ls
+  341  cd
+  342  ls .local/
+  343  cd .local/lib/
+  344  ls
+  345  cd python3.5/site-packages/
+  346  ls
+  347  cd virtualenv
+  348  ls
+  349  cd 
+  350  cd .local/
+  351  ls
+  352  ls bin/
+  353  cd ..
+  354  rm -rf .local/
+  355  cd zenodo/
+  356  ls
+  357  pip install -r requirements.txt --src ~/src/ --pre --upgrade
+  358  pip install -e .[all,postgresql,elasticsearch2]
+  359  exit
+  360  cd zenodo/
+  361  mkvirtualenv zenodo
+  362  clear
+  363  nvm
+  364  nvm use 7.4
+  365  nvm install 7.4
+  366  nvm use 7.4
+  367  ./scripts/setup-npm.sh
+  368  ./scripts/setup-assets.sh
+  369  pwd
+  370  ./scripts/setup-assets.sh
+  371  workon zenodo
+  372  exit
+  373  cat /etc/group
+  374  usermod -a -G docker feysal
+  375  sudo usermod -a -G docker feysal
+  376  id feysal
+  377  exit
+  378  id
+  379  exit
+  380  workon zenodo
+  381  zenodo
+  382  cd zenodo/
+  383  nvm use 7.4
+  384  ./scripts/setup-assets.sh 
+  385  docker-compose up db es mq cache
+  386  ps aux docker
+  387  ps aux |grep docker
+  388  id
+  389  exit
+  390  sudo -H pip install -U setuptools
+  391  workon zenodo
+  392  cd zenodo/
+  393  clear
+  394  ./scripts/init.sh 
+  395  celery worker -A zenodo.celery -l INFO --purge
+  396  workon zenodo
+  397  export FLASK_DEBUG=True
+  398  zenodo run
+  399  docker-compose up db es mq cache
+  400  cd zenodo/
+  401  docker-compose up db es mq cache
+  402  ./scripts/init.sh
+  403  cd zenodo/
+  404  workon zenodo
+  405  ./scripts/init.sh
+  406  export FLASK_DEBUG=True
+  407  zenodo run
+  408  cd zenodo/
+  409  docker-compose up db es mq cache
+  410  cd zenodo/
+  411  workon zenodo
+  412  celery worker -A zenodo.celery -l INFO --purge
+  413  cd 
+  414  cd .virtualenvs/zenodo/var/instance/
+  415  ls
+  416  cd
+  417  cd zenodo
+  418  ls
+  419  cd zenodo
+  420  ls
+  421  cd modules/
+  422  ls
+  423  cd theme/
+  424  ls
+  425  ls static/
+  426  ls
+  427  cd ..
+  428  cd //
+  429  cd .
+  430  ls
+  431  clear
+  432  cd zenodo
+  433  ls
+  434  cd modules/
+  435  cd theme/
+  436  ls
+  437  cd templates/
+  438  ls
+  439  cd zenodo_theme/
+  440  ls
+  441  vi header.html 
+  442  vi page_cover.html 
+  443  vi full_page.html 
+  444  ls
+  445  grep INFN *
+  446  grep -r INFN *
+  447  ls
+  448  cd ../
+  449  ls
+  450  cd ..
+  451  ls
+  452  cd static/
+  453  ls
+  454  cd img/
+  455  ls
+  456  cd ..
+  457  ls
+  458  cd ..
+  459  cd static/scss/
+  460  ls
+  461  grep INFN *
+  462  cd ..
+  463  grep -r INFN *
+  464  cd ..
+  465  ls
+  466  cd templates/
+  467  grep -r INFN *
+  468  ls
+  469  cd zenodo_theme/
+  470  ls
+  471  vi page.html 
+  472  vi page_cover.html 
+  473  export FLASK_DEBUG=True
+  474  zenodo run
+  475  cd zenodo
+  476  export FLASK_DEBUG=True
+  477  zenodo run
+  478  clear
+  479  ls
+  480  cd zenodo/
+  481  ls
+  482  gedit config.py 
+  483  cd ..
+  484  CD ..
+  485  cd .
+  486  cd ..
+  487  cd .virtualenvs/zenodo/var/instance/
+  488  ls
+  489  clear
+  490  touch invenio.cfg
+  491  ls
+  492  clear
+  493  gedit invenio.cfg 
+  494  cd .
+  495  cd
+  496  clear
+  497  workon zenodo
+  498  cd zenodo
+  499  ./scripts/setup-assets.sh
+  500  clear
+  501  ./scripts/setup-assets.sh
+  502  clear
+  503  ./scripts/setup-assets.sh
+  504  clear
+  505  ls
+  506  cd zenodo
+  507  ls
+  508  clear
+  509  cd modules/
+  510  ls
+  511  cd theme/
+  512  ls
+  513  cd static/
+  514  clear
+  515  ls
+  516  cd img/
+  517  ls
+  518  clear
+  519  cd 
+  520  cd zenodo
+  521  ls
+  522  clear
+  523  ./scripts/setup-assets.sh
+  524  clear
+  525  work on zenodo
+  526  workon zenodo
+  527  cd zenodo
+  528  export FLASK_DEBUG=True
+  529  zenodo run
+  530  ./scripts/setup-assets.sh
+  531  cd zenodo
+  532  workon zenodo
+  533  export FLASK_DEBUG=True
+  534  zenodo run
+  535  clear
+  536  zenodo run
+  537  clear
+  538  zenodo run
+  539  export FLASK_DEBUG=True
+  540  zenodo run
+  541  workon zenodo
+  542  cd zenodo
+  543  ./scripts/setup-assets.sh
+  544  exit
+  545  cd ls
+  546  cd zenodo
+  547  ls
+  548  clear
+  549  ls
+  550  git status
+  551  git add .
+  552  clear
+  553  git commit -m "the frontend is adopted"
+  554  clear
+  555  git remote
+  556  git status
+  557  git push 
+  558  clear
+  559  ls
+  560  git status
+  561  workon zenodo
+  562  ./scripts/setup-assets.sh
+  563  cd zenodo
+  564  ./scripts/setup-assets.sh
+  565  export FLASK_DEBUG=True
+  566  zenodo run
+  567  clear
+  568  export FLASK_DEBUG=True
+  569  zenodo run
+  570  export FLASK_DEBUG=True
+  571  zenodo run
+  572  clear
+  573  ps aux
+  574  ps aux | grep zenodo
+  575  sudo kill -9 19633
+  576  sudo kill -9 19660
+  577  ps aux | grep zenodo
+  578  export FLASK_DEBUG=True
+  579  zenodo run
+  580  ps aux | grep zenodo
+  581  sudo kill -9 20630
+  582  export FLASK_DEBUG=True
+  583  zenodo run
+  584  clear
+  585  ps aux | grep zenodo
+  586  sudo kill -9 21926
+  587  ps aux | grep zenodo
+  588  sudo kill -9 21902
+  589  ps aux | grep zenodo
+  590  clear
+  591  export FLASK_DEBUG=True
+  592  zenodo run
+  593  clear
+  594  ps aux | grep zenodo
+  595  sudo kill -9 22352
+  596  sudo kill -9 22295
+  597  clear
+  598  ./scripts/setup-assets.sh
+  599  export FLASK_DEBUG=True
+  600  zenodo run
+  601  sudo kill -9 22295
+  602  ps aux | grep zenodo
+  603  sudo kill -9 23050
+  604  ps aux | grep zenodo
+  605  ./scripts/setup-assets.sh
+  606  export FLASK_DEBUG=True
+  607  zenodo run
+  608  ./scripts/setup-assets.sh
+  609  ps aux | grep zenodo
+  610  sudo kill -9 23515
+  611  export FLASK_DEBUG=True
+  612  zenodo run
+  613  ps aux | grep zenodo
+  614  sudo kill -9 24250
+  615  ps aux | grep zenodo
+  616  sudo kill -9 24803
+  617  ps aux | grep zenodo
+  618  clear
+  619  export FLASK_DEBUG=True
+  620  zenodo run
+  621  clear
+  622  ./scripts/setup-assets.sh
+  623  ps aux | grep zenodo
+  624  sudo kill -9 24884
+  625  ps aux | grep zenodo
+  626  export FLASK_DEBUG=True
+  627  zenodo run
+  628  clear
+  629  ./scripts/setup-assets.sh
+  630  ps aux | grep zenodo
+  631  sudo kill -9 25470
+  632  ps aux | grep zenodo
+  633  clear
+  634  ./scripts/setup-assets.sh
+  635  ps aux | grep zenodo
+  636  export FLASK_DEBUG=True
+  637  zenodo run
+  638  ps aux | grep zenodo
+  639  sudo kill -9 27507
+  640  ps aux | grep zenodo
+  641  ./scripts/setup-assets.sh
+  642  ps aux | grep zenodo
+  643  export FLASK_DEBUG=True
+  644  zenodo run
+  645  clear
+  646  ps aux | grep zenodo
+  647  sudo kill -9 27622
+  648  ps aux | grep zenodo
+  649  sudo kill -9 27943
+  650  ps aux | grep zenodo
+  651  ./scripts/setup-assets.sh
+  652  export FLASK_DEBUG=True
+  653  zenodo run
+  654  ps aux | grep zenodo
+  655  sudo kill -9 36508
+  656  ps aux | grep zenodo
+  657  sudo kill -9 36484
+  658  ps aux | grep zenodo
+  659  ./scripts/setup-assets.sh
+  660  ps aux | grep zenodo
+  661  export FLASK_DEBUG=True
+  662  zenodo run
+  663  ps aux | grep zenodo
+  664  sudo kill -9 37233
+  665  ps aux | grep zenodo
+  666  ./scripts/setup-assets.sh
+  667  export FLASK_DEBUG=True
+  668  zenodo run
+  669  ps aux | grep zenodo
+  670  sudo kill -9 38248
+  671  ps aux | grep zenodo
+  672  export FLASK_DEBUG=True
+  673  zenodo run
+  674  ps aux | grep zenodo
+  675  sudo kill -9 38412
+  676  ps aux | grep zenodo
+  677  ./scripts/setup-assets.sh
+  678  export FLASK_DEBUG=True
+  679  zenodo run
+  680  ps aux | grep zenodo
+  681  sudo kill -9 38686
+  682  ps aux | grep zeno
+  683  ./scripts/setup-assets.sh
+  684  ps aux | grep zenodo
+  685  export FLASK_DEBUG=True
+  686  zenodo run
+  687  ps aux | grep zenodo
+  688  sudo kill -9 39104
+  689  ps aux | grep zenodo
+  690  ./scripts/setup-assets.sh
+  691  ps aux | grep zenodo
+  692  export FLASK_DEBUG=True
+  693  zenodo run
+  694  ps aux | grep zenodo
+  695  sudo kill -9 39680
+  696  ps aux | grep zenodo
+  697  ./scripts/setup-assets.sh
+  698  export FLASK_DEBUG=True
+  699  zenodo run
+  700  ps aux|grep zenodo
+  701  zenodo run
+  702  echo $FLASK_DEBUG
+  703  zenodo run
+  704  cd zenodo/
+  705  celery worker -A zenodo.celery -l INFO --purge
+  706  workon zenodo
+  707  clear
+  708  celery worker -A zenodo.celery -l INFO --purge
+  709  ls
+  710  git clone https://gitlab.com/feysalmam/zenodo-kubernetes.git
+  711  clear
+  712  ls
+  713  clear
+  714  docker-compose up db es mq cache
+  715  cd zenodo
+  716  docker-compose up db es mq cache
+  717  cd zenodo
+  718  cd ..
+  719  cd .virtualenvs/zenodo/var/instance/
+  720  gedit invenio.cfg 
+  721  cd
+  722  cd zenodo/zenodo
+  723  vi config.py 
+  724  ls
+  725  grep -r SECRET *
+  726  vi __init__.py 
+  727  cd 
+  728  cd .virtualenvs/
+  729  ls
+  730  cd zenodo/lib/
+  731  ls
+  732  cd python3.5/
+  733  ls
+  734  cd site-packages/
+  735  ls
+  736  cd invenio_app
+  737  ls
+  738  vi config.py 
+  739  ls
+  740  cd ..
+  741  grep -r SECRET *
+  742  grep -r SECRET_KEY *
+  743  grep -r SECRET_KEY *|less
+  744  grep -r SECRET_KEY *|grep -v Binary|less
+  745  vi invenio_config/default.py 
+  746  curl http://localhost:5000
+  747  curl http://localhost:5000/deposit
+  748  cd
+  749  cd -
+  750  cd invenio_accounts
+  751  ls
+  752  grep CSRF *
+  753  cd ..
+  754  ls
+  755  cd invenio_access
+  756  ls
+  757  grep CSRF *
+  758  ls
+  759  cd ..
+  760  ls
+  761  cd zenodo_accessrequests
+  762  ls
+  763  grep CSRF *
+  764  cd ..
+  765  grep -r CSRF *
+  766  grep -r CSRF *|grep -v Binary
+  767  cd flask_wtf/
+  768  ls
+  769  vi csrf.py 
+  770  cd ..
+  771  grep -r "The CSRF tokens do not match." *
+  772  cd flask
+  773  cd ../flask_wtf/
+  774  ls
+  775  vi __init__.py 
+  776  vi csrf.py 
+  777  cd ..
+  778  grep -r "validate_csrf" *
+  779  vi flask_wtf/csrf.py 
+  780  cd .virtualenvs/zenodo/var/instance/
+  781  ls
+  782  gedit invenio.cfg 
+  783  cd
+  784  cd zenodo
+  785  cd modules/fixtures/
+  786  cd data/
+  787  ls
+  788  vi users.json 
+  789  cd ../../
+  790  cd 
+  791  cd -
+  792  cd ..
+  793  vi config.py 
+  794  cd modules/
+  795  ls
+  796  cd ..
+  797  ls
+  798  cd mod
+  799  cd zenodo
+  800  cd modules/
+  801  grep -r CSRF *
+  802  grep -r "validate_csrf" *
+  803  cd ..
+  804  vi config.py 
+  805  docker-compose up db es mq cache
+  806  workon zenodo
+  807  cd zenodo
+  808  docker-compose up db es mq cache
+  809  clear
+  810  cd ..
+  811  docker-compose up db es mq cache
+  812  cd zenodo
+  813  docker-compose up db es mq cache
+  814  ./scripts/setup-assets.sh 
+  815  subl .virtualenvs/zenodo/var/instance/invenio.cfg 
+  816  cd 
+  817  cd Downloads/
+  818  ls
+  819  unzip invenio-migrator-master.zip 
+  820  ls
+  821  cd invenio-migrator-master/
+  822  ls
+  823  mv invenio_migrator ~/.virtualenvs/zenodo/lib/python3.5/site-packages/
+  824  exit
+  825  git
+  826  git status
+  827  git add .
+  828  git commit -m "aboute, policy,and terms of use are updated"
+  829  clear
+  830  git status
+  831  clear
+  832  git status
+  833  git push origin master 
+  834  clear
+  835  cd modules/
+  836  ls
+  837  cd fixtures/
+  838  cd data/
+  839  ls
+  840  vi users.json 
+  841  vi communities.json 
+  842  ls
+  843  vi communities.json 
+  844  export FLASK_DEBUG=True
+  845  cd workon zenodo
+  846  workon zenodo
+  847  cd zenodo
+  848  export FLASK_DEBUG=True
+  849  zenodo run
+  850  workon zenodo
+  851  cd zenodo
+  852  clear
+  853  docker-compose up db es cache mq
+  854  clear
+  855  docker-compose up db es mq cache
+  856  celery worker -A zenodo.celery -l INFO --purge
+  857  workon zenodo
+  858  cd zenodo
+  859  celery worker -A zenodo.celery -l INFO --purge
+  860  cd zenodo
+  861  CD zenodo
+  862  cd zenodo
+  863  cd modules/
+  864  cd 
+  865  ls
+  866  cd ..
+  867  ls
+  868  cd ..
+  869  ls
+  870  cd 
+  871  cd zenodo/zenodo
+  872  ls
+  873  cd modules/
+  874  ls
+  875  cd fixtures/
+  876  ls
+  877  cd data/
+  878  ls
+  879  history -a
+  880  ~/.bash_histor
+  881  cd 
+  882  ~/.bash_histor
+  883  sudo 
+  884  su -
+  885  workon zenodo 
+  886  cd zenodo
+  887  docker-compose up db es mq cache
+  888  celery worker -A zenodo.celery -l INFO --purge
+  889  clear
+  890  celery worker -A zenodo.celery -l INFO --purge
+  891  cd zenodo
+  892  docker-compose up db es mq cache
+  893  clear
+  894  workon zenodo
+  895  cd zenodo
+  896  export FLASK_DEBUG=True
+  897  docker run
+  898  zenodo run
+  899  cd zenodo/zenodo
+  900  cd modules/
+  901  cd fixtures/
+  902  cd data/
+  903  ls
+  904  history
+  905  cd ..
+  906  workon zenodo
+  907  histry
+  908  history
+  909  record-view
+  910  records
+  911  record
+  912  zenodo -help
+  913  zenodo 
+  914  zenodo records
+  915  inveniomigrator
+  916  inveniomigrator --help
+  917  inveniomigrator dumps loadrecords
+  918  cd zenodo/
+  919  ls
+  920  cd modules/fixtures/data/
+  921  inveniomigrator dumps loadrecords
+  922  inveniomigrator  loadrecords
+  923  invenio dumps loadrecords
+  924  history
+  925  inveniomigrator 
+  926  inveniomigrator  dumps loadrecords
+  927  invenio dumps --help
+  928  zenodo migration recordsrun
+  929  zenodo migration --help
+  930  zenodo opendefinition loadlicenses
+  931  jobs
+  932  fg
+  933  count &
+  934  jobs -l
+  935  ps -ef
+  936  clear
+  937  zenodo opendefinition loadlicenses :p
+  938  history | grep record
+  939  zenodo loadmigrator
+  940  zenodo --help
+  941  history > *textfile*
+  942  ls
+  943  history > texfile.txt
+  944  subl texfile.txt 
+  945  rm texfile.txt 
+  946  rm \*textfile\* 
+  947  ls
+  948  clear
+  949  ls
+  950  cat community-logos/
+  951  cd community-logos/
+  952  ls
+  953  clear
+  954  cd ..
+  955  ls
+  956  clear
+  957  ls
+  958  clear
+  959  sudo history
+  960  history
+  961  sudo history
+  962  sudo passwd root
+  963  clear
+  964  su -
+  965  history
+  966  subl .bash_history
+  967  sudo find /home/ -name '*_history*'
+  968  clear
+  969  workon zenodo 
+  970  cd zenodo
+  971  clear
+  972  export FLASK_DEBUG=True
+  973  zenodo run
+  974  clear
+  975  zenodo
+  976  zenodo --help
+  977* zenodo
+  978  history > tet.txt
