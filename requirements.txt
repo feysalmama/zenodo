@@ -55,7 +55,7 @@ citeproc-py-styles==0.1.1
 click==6.7
 configparser==3.5.0
 contextlib2==0.5.5
-cookiecutter==1.6.0
+cookiecutter==2.1.1
 counter-robots==2018.6
 cryptography==2.3.0
 datacite==1.0.1
